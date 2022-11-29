@@ -1,0 +1,6 @@
+@article{vanmencxel2022,
+  title={Bonds for the Long Run? The Rate of Return on Corporate Bonds in Belgium, 1838--1939},
+  author={Van Mencxel, Kevin and Annaert, Jan and Deloof, Marc},
+  journal={Available at SSRN: Available at SSRN: https://ssrn.com/abstract=4120896},
+  year={2022}
+}
