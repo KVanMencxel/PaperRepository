@@ -1,0 +1,6 @@
+@article{annaert2022,
+  title={The Corporate Bond Risk Premium: New Data and Evidence from The Origin of Corporate Default},
+  author={Annaert, Jan and Deloof, Marc and Van Mencxel, Kevin},
+  journal={Work in Progress},
+  year={2022}
+}
