@@ -1,0 +1,6 @@
+@article{vanmencxel2022,
+  title={The Cross-Section of Corporate Bond Returns: Evidence from an Elusive Past},
+  author={Van Mencxel, Kevin},
+  journal={Job Market Paper},
+  year={2022}
+}
