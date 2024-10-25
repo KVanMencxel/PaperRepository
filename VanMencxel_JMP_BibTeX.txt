@@ -1,4 +1,4 @@
-@article{vanmencxel2024,
+@article{vanmencxelcross2024,
   title={The Cross-Section of Corporate Bond Returns: The Pre-World War \rom{1} Evidence},
   author={Van Mencxel, Kevin},
   journal={SRRN},
